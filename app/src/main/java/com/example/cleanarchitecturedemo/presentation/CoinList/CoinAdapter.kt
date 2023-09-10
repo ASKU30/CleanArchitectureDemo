@@ -11,7 +11,7 @@ import android.widget.*
 import androidx.recyclerview.widget.RecyclerView
 import com.example.cleanarchitecturedemo.R
 import com.example.cleanarchitecturedemo.domain.model.Coin
-import com.example.relevelandroidproject.presentation.Coin.CoinActivity
+import com.example.cleanarchitecturedemo.presentation.Coin.CoinActivity
 import com.squareup.picasso.Picasso
 import java.util.*
 import kotlin.collections.ArrayList

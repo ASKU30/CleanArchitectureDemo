@@ -1,4 +1,4 @@
-package com.example.relevelandroidproject.presentation.Coin
+package com.example.cleanarchitecturedemo.presentation.Coin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
 import com.example.cleanarchitecturedemo.databinding.ActivityCoinBinding
+import com.example.relevelandroidproject.presentation.Coin.CoinViewModel
 import com.squareup.picasso.Picasso
 
 import dagger.hilt.android.AndroidEntryPoint

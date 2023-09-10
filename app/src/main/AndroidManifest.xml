@@ -16,7 +16,7 @@
         android:theme="@style/Theme.CleanArchitectureDemo"
         tools:targetApi="31" >
     <activity
-        android:name="com.example.relevelandroidproject.presentation.Coin.CoinActivity"
+        android:name=".presentation.Coin.CoinActivity"
         android:exported="false" />
     <activity
         android:name=".MainActivity"
